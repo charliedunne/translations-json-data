@@ -32,7 +32,7 @@
         "flavor": "",
         "name": "House Bannerman",
         "text": "<b>Marshaling Action:</b> Kneel House Bannerman to reduce the cost of the next in-faction character you marshal this phase by 1.\n<b>Draft format only.</b>",
-        "traits": "Ally."
+        "traits": "Aliado."
     },
     {
         "code": "00006",
@@ -46,14 +46,14 @@
         "flavor": "",
         "name": "Summoned by the Conclave",
         "text": "<b>When Revealed:</b> Search the top 10 cards of your deck for an in-faction card, reveal it, and add it to your hand. Shuffle your deck.\n<b>Draft format only.</b>",
-        "traits": "Kingdom."
+        "traits": "Reino."
     },
     {
         "code": "00008",
         "flavor": "",
         "name": "The Pale Mare",
         "text": "<b>When Revealed:</b> Each player chooses any number of characters he or she controls with total printed cost 10 or lower. Kill each character not chosen (cannot be saved).\n<b>Draft format only.</b>",
-        "traits": "Omen."
+        "traits": "Augurio."
     },
     {
         "code": "00009",
@@ -67,7 +67,7 @@
         "flavor": "",
         "name": "Support of Saltcliffe",
         "text": "[greyjoy] character only.\nAttached character gains stealth.\n<b>Reaction:</b> After you win an unopposed challenge in which attached character is attacking, stand attached character.\n<b>Draft format only.</b>",
-        "traits": "Condition."
+        "traits": "Estado."
     },
     {
         "code": "00011",
@@ -88,7 +88,7 @@
         "flavor": "",
         "name": "The Nightfort",
         "text": "<b>Challenges Action:</b> Kneel The Nightfort to choose a defending [thenightswatch] character. Until the end of the challenge, that character gets +1 STR for each attacking character.\n<b>Draft format only.</b>",
-        "traits": "The North."
+        "traits": "El Norte."
     },
     {
         "code": "00014",
@@ -123,7 +123,7 @@
         "flavor": "",
         "name": "Hollow Hill",
         "text": "<b>Reaction:</b> After you marshal a character with a faction affiliation that does not match any other card you control, draw 1 card.\n<b>Draft format only.</b>",
-        "traits": "Westeros."
+        "traits": "Poniente."
     },
     {
         "code": "00019",
@@ -137,13 +137,13 @@
         "flavor": "",
         "name": "Holding the Trident",
         "text": "While you control fewer characters than each opponent, each character you control gets +2 STR.\n<b>Draft format only.</b>",
-        "traits": "War."
+        "traits": "Guerra."
     },
     {
         "code": "00021",
         "flavor": "",
         "name": "Common Cause",
         "text": "X is the number of different faction affiliations among characters you control.\n<b>Draft format only.</b>",
-        "traits": "Edict."
+        "traits": "Edicto."
     }
 ]

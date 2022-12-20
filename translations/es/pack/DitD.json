@@ -1,0 +1,143 @@
+[
+    {
+        "code": "11101",
+        "flavor": "",
+        "name": "Ser Jason Mallister",
+        "text": "Mientras no haya cartas en las Sombras, Ser Jason Mallister gana Renombre.\n<b>Reacción:</b> despues de que ganes un reto en el que Ser Jason Mallister esté atacando, descarta una carta de tu elección que esté en las Sombras controlada por el adversario derrotado.",
+        "traits": "Casa Tully. Caballero. Lord."
+    },    
+    {
+        "code": "11102",
+        "flavor": "",
+        "name": "Carta para el bastardo",
+        "text": "Sombra 3.\n<b>Reacción:</b> despues de que después de que un adversario inicie un reto [military] contra ti, pon en pie cualquier número de Personajes que controles y que tengan un icono [military]. Si ganas el reto, mata a todos los Personajes atacantes.",
+        "traits": "Casa Bolton."
+    },    
+    {
+        "code": "11103",
+        "flavor": "",
+        "name": "Diplomática sagaz",
+        "text": "Emboscada 5. Sombra 3.\n<b>Reacción:</b> despues de que la Diplomática sagaz entre en juego durante un reto, elige un Personaje participante. Pon en pie a ese Personaje y retíralo del reto.",
+        "traits": "Aliado. Espía."
+    },    
+    {
+        "code": "11104",
+        "flavor": "",
+        "name": "Mercado del Rejo",
+        "text": "<b>Acción de Reto:</b> arrodilla el Mercado del Rejo para elegir un Personaje participante. Hasta el final del reto, ese Personaje recibe un +1 a su FUE.",
+        "traits": "Casa Redwyne."
+    },    
+    {
+        "code": "11105",
+        "flavor": "... y Othell Yarwyck y sus constructores aún trabajaban en la restauración del Fuerte de la Noche.",
+        "name": "Constructor del Fuerte de la Noche",
+        "text": "<b>Reacción:</b> despues de que el Constructor de la Fuerte de la Noche se arrodille, muestra la primera carta de parte superior de tu mazo. Si es un Lugar o Accesorio [thenightswatch], róbalo.",
+        "traits": "Constructor."
+    },    
+    {
+        "code": "11106",
+        "flavor": "",
+        "name": "Cuchillos en la oscuridad",
+        "text": "Sombra 2.\n<b>Reacción:</b> despues de que ganes un reto como jugador defensor, mata a un Personaje atacante de tu elección. El jugador atacante puede sacrificar 2 Personajes para anular ese efecto.",
+        "traits": ""
+    },    
+    {
+        "code": "11107",
+        "flavor": "\"No soy ningún traidor.\"",
+        "name": "Ronnet el Rojo",
+        "text": "Sin Accesorios excepto <i>Arma</i>.\nMientras Ronnet el Rojo esté atacando, si el jugador defensor controla una carta en las Sombras, aumenta en 1 el valor de Conquista de tu carta de Trama mostrada.",
+        "traits": "Casa Connington. Caballero."
+    },    
+    {
+        "code": "11108",
+        "flavor": "",
+        "name": "Apartado de la Luz",
+        "text": "Sombra 2.\n<b>Reacción:</b> despues de que ganes un reto [power], elige a un Personaje. Colócalo en las Sombras con una ficha de Sombra encima. Mientras esa carta esté en las Sombras, gana Sombra X. X es su coste impreso.",
+        "traits": ""
+    },    
+    {
+        "code": "11109",
+        "flavor": "\"La única manera de conservar la lealtad de tu pueblo es hacer que te teman más de lo que temen al enemigo.\"",
+        "name": "Cersei Lannister",
+        "text": "Sombra 5.\n<b>Reacción:</b> despues de que una carta que controles salga de las Sombras durante la fase de Reto, cada adversario descarta 1 carta de su mano al azar. (Límite de 3 vez por fase.)",
+        "traits": "Lady."
+    },    
+    {
+        "code": "11110",
+        "flavor": "",
+        "name": "Métodos solapados",
+        "text": "Sombra 0. (Recluta esta carta boca abajo en las Sombras por 2 de Oro. Con una acción, paga 0 de Oro para que entre en juego boca arriba.)\nEl Personaje vinculado recibe un +1 a su FUE por cada carta que controles en las Sombras.",
+        "traits": "Habilidad."
+    },    
+    {
+        "code": "11111",
+        "flavor": "\"No hay más dioses que R'hllor y el Otro, aquél cuyo nombre no se debe pronunciar.\"",
+        "name": "Moqorro",
+        "text": "Sombra 5.\n<b>Reacción:</b> despues de que Moqorro salga de las Sombras durante un reto, elige un Personaje defensor y colócalo en la parte superior del mazo de su propietario.",
+        "traits": "Aliado. R'hllor."
+    },    
+    {
+        "code": "11112",
+        "flavor": "",
+        "name": "Rima con sabihondo",
+        "text": "Sombra 0. (Recluta esta carta boca abajo en las Sombras por 2 de Oro. Con una acción, paga 0 de Oro para que entre en juego boca arriba.)\n<b>Reacción:</b> despues de que ganes un reto sin oposición, roba 2 cartas (3 cartas si has jugado este Evento desde las Sombras).",
+        "traits": ""
+    },    
+    {
+        "code": "11113",
+        "flavor": "Patrullaron la ciudad día y noche con capuchas oscuras y máscaras de bronce",
+        "name": "Bestia de bronce",
+        "text": "Sin Accesorios. Sombra 3. (Recluta esta carta boca abajo en las Sombras por 2 de Oro. Con una acción, paga 3 de Oro para que entre en juego boca arriba.)\n<b>Acción de Reclutamiento:</b> paga 3 de Oro para poner a la Bestia de bronce en las Sombras desde tu pila de descartes.",
+        "traits": "Guardia."
+    },    
+    {
+        "code": "11114",
+        "flavor": "\"Unos guantes para mis viejas manos arrugadas. Qué amable.\"<cite>La viuda del puerto</cite>",
+        "name": "Regalos para la viuda",
+        "text": "<b>Acción:</b> busca en tu amzo un Accesorio con un coste impreso de X o menos y ponlo en juego vinculado a un Personaje que controles. Baraja tu mazo.",
+        "traits": ""
+    },    
+    {
+        "code": "11115",
+        "flavor": "",
+        "name": "Espía de Campoestrella",
+        "text": "Sombra 3.\n<b>Reacción:</b> despues de que ganes un reto en el que esté participando la Espía de Campoestrella, devuélvela a las Sombras para elegir otra carta que controles en las Sombras y ponerla en juego.",
+        "traits": "Casa Dayne. Espía."
+    },    
+    {
+        "code": "11116",
+        "flavor": "",
+        "name": "Sangre de la Víbora",
+        "text": "Sólo Personajes <i>Serpiente de arena</i>. Emboscada 2.\n<b>Reacción:</b> despues de que pierdas un reto en el que esté participando el Personaje vinculado, ponlo en pie.",
+        "traits": "Legado."
+    },    
+    {
+        "code": "11117",
+        "flavor": "Ser, ¿habéis visto a mi hijo pequeño?\nUn joven gallardo, de pelo trigueño.\nPrometió volver, regresar al hogar.\nMe juró que nunca me haría llorar.",
+        "name": "\"En una mañana brumosa\"",
+        "text": "<b>Acción:</b> elige hasta 2 Personajes no único que estén en tu pila de muertos y devuélvelos a tu mano.",
+        "traits": "Canción."
+    },    
+    {
+        "code": "11118",
+        "designer": "Carta diseñada por Jesús Valdés Gaspar, campeón de la Justa Europea de 2015.",
+        "flavor": "",
+        "name": "Ataque desde las sombras",
+        "text": "Reduce en 1 el valor de Oro de tu carta de Trama mostrada.\n<b>Acción de Reclutamiento:</b> arrodilla tu carta de Facción para elegir 1 carta de tu mano y colocarla boca abajo en las Sombras con una ficha de Sombra encima. Mientras esa carta esté en las Sombras, si no tiene impresa la palabra clave Sombra, gana Sombra X. X es su coste impreso.",
+        "traits": ""
+    },    
+    {
+        "code": "11119",
+        "flavor": "\"No os deseo mal alguno, pero tenía que hacer esto por el reino. Por los niños.\"",
+        "name": "Varys",
+        "text": "Sombra 8. Sigilo.\nReduce el coste para sacar a Varys de las Sombras en 1 por cada carta que haya en las Sombras aparte de él.\n<b>Reacción:</b> despues de que Varys salga de las Sombras, mata a un Personaje de tu elección que tenga Poder.",
+        "traits": "Aliado. Lord."
+    },    
+    {
+        "code": "11120",
+        "flavor": "",
+        "name": "Los estragos de la guerra",
+        "text": "<b>Cuando se muestre esta carta:</b> cada jugador sacrifica un Personaje o Lugar, descarta 1 carta de su mano de su elección y descarta 1 carta de su zona de Sombras de su elección (si puede).",
+        "traits": ""
+    }  
+]

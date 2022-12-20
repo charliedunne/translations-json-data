@@ -116,7 +116,7 @@
         "flavor": "",
         "name": "Superioridad naval",
         "text": "El valor de Oro básico de carta de Trama mostrada de <i>Reino</i> y <i>Edicto</i> se considera 0.",
-        "traits": "Siege. War."
+        "traits": "Asedio. Guerra."
     },
     {
         "code": "01018",
@@ -144,7 +144,7 @@
         "flavor": "",
         "name": "Ataque sorpresa",
         "text": "No puedes iniciar más de 1 reto durante la fase de Reto.",
-        "traits": "Scheme."
+        "traits": "Conspiración."
     },
     {
         "code": "01022",

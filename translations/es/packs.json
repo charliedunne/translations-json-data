@@ -77,7 +77,7 @@
     },
     {
         "code": "TFM",
-        "name": "The Faith Militant"
+        "name": "La Fe Militante"
     },
     {
         "code": "TFoA",
@@ -118,5 +118,45 @@
     {
         "code": "WotW",
         "name": "Vigilantes del Muro"
+    },
+    {
+        "code": "KotI",
+        "name": "Reyes de las Islas"
+    },
+    {
+        "code": "SAT",
+        "name": "Siempre hay alguien que habla"
+    },
+    {
+        "code": "TSC",
+        "name": "La ciudad de la sombra"
+    },
+    {
+        "code": "TMoW",
+        "name": "La marcha sobre Invernalia"
+    },
+    {
+        "code": "DotE",
+        "name": "Dragones del Este"
+    },
+    {
+        "code": "SoKL",
+        "name": "Las Calles de Desembarco del Rey"
+    },
+    {
+        "code": "MoD",
+        "name": "Musica de Dragones"
+    },
+    {
+        "code": "IDP",
+        "name": "En el Reñidero de Daznak"
+    },
+    {
+        "code": "DitD",
+        "name": "Cuchillos en la Oscuridad"
+    },
+    {
+        "code": "FotS",
+        "name": "La furia de la Tormenta"
     }
 ]

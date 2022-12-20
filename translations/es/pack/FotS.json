@@ -1,0 +1,366 @@
+[
+    {
+        "code": "14001",
+        "flavor": "",
+        "name": "Robert Baratheon",
+        "text": "Renombre.\n<b>Reacción:</b> despues de que empieces la fase de Puesta en pie (elige una opción):\n- Otros Personajes que tengan un coste impreso de 5 o más no pueden ponerse en ie en esta fase.\n- Los Personajes que tengan un coste impreso de 4 o menos no pueden ponerse en pie en esta fase.\n- No pueden ponerse en pie Lugares en esta fase",
+        "traits": "Lord. Rey."
+    },
+    {
+        "code": "14002",
+        "flavor": "\"Yo no pedí esta corona.\"",
+        "name": "Stannis Baratheon",
+        "text": "Inmune a Eventos de los adversarios.\n<b>Reacción:</b> despues de que ganes un reto [power], roba X cartas. X es el valor de Conquista de la carta de Trama mostrada por el jugador atacante.",
+        "traits": "Lord. Rey. R'hllor."
+    },
+    {
+        "code": "14003",
+        "flavor": "",
+        "name": "Melisandre",
+        "text": "Sigilo.\n<b>Reacción:</b> despues de que ganes un reto [intrigue] en el que Melisandre esté atacando, traslada 1 de Poder desde un Personaje controlado por el adversario derrotado hasta Melisandre. Luego, si ese Personaje no tiene Poder, mátalo.",
+        "traits": "Lady. R'hllor."
+    },
+    {
+        "code": "14004",
+        "flavor": "\"Las espadas Tyrell me harán rey.\"",
+        "name": "Renly Baratheon",
+        "text": "Renombre.\n<b>Acción:</b> arrodilla tu carta de Facción para poner en juego desde tu mano un Personaje que no sea [baratheon] y que tenga un coste impreso de X o menos. X es la FUE de Renly Baratheon.",
+        "traits": "Lord. Rey."
+    },
+    {
+        "code": "14005",
+        "flavor": "\"Mi buen señor, lo que quiero es oro, no palabras sobre el papel.\"",
+        "name": "Salladhor Saan",
+        "text": "<b>Reacción:</b> despues de que reclutes un Personaje <i>Contrabandista</i>, arrodilla un Lugar de tu elección. Luego ganas tanto Oro como el coste impreso de ese Lugar. (Límite de 1 vez por ronda.)",
+        "traits": "Capitán. Contrabandista."
+    },
+    {
+        "code": "14006",
+        "flavor": "",
+        "name": "Ser Davos Seaworth",
+        "text": "Sigilo.\n<b>Reacción:</b> despues de que ganes un reto en el que Ser Davos Seaworth esté participando, descarta 1 de Poder de la carta de Facción del adversario derrotado. Luego puedes hacer que un Personaje <i>Rey</i> que controles gane 1 de Poder.",
+        "traits": "Caballero. Contrabandista. Los Siete."
+    },
+    {
+        "code": "14007",
+        "flavor": "\"Stannis Baratheon no ocupará nunca el Trono de Hierro; ¿es traición decir la verdad? Una verdad amarga, si, pero no por ello menos cierta.\"",
+        "name": "Alester Florent",
+        "text": "<b>Reacción:</b> despues de que entre en juego un Personajede la <i>Casa Florent</i>, roba 1 carta. (Límite de 1 vez por ronda.)\n<b>Interrupción:</b> cuando Alester Florent abandone el juego, si controlas otro Personaje <i>R'hllor</i>, arrodilla un Personaje de tu elección controlado por un adversarion.",
+        "traits": "Casa Florent. Lord. R'hollor."
+    },
+    {
+        "code": "14008",
+        "flavor": "\"Una reina debería ser la señora  de su casa.\"",
+        "name": "Selyse Baratheon",
+        "text": "Reduce en 3 el coste de cada Accesorio <i>R'hllor</i> que reclutes.",
+        "traits": "Casa Florent. Lady. Reina. R'hllor."
+    },
+    {
+        "code": "14009",
+        "flavor": "El Nido del Grifo era fuerte, pero pequeño...",
+        "name": "Caballero del Nido del Grifo",
+        "text": "<b>Interrupción:</b> cuando termine la fase de Reto, si no has perdido un reto [power] en esta fase, pon en pie al Caballero del Nido del Grifo.",
+        "traits": "Casa Connington. Caballero."
+    },
+    {
+        "code": "14010",
+        "flavor": "\"Tu hijo Dale se dirigirá hacia el sur en la Espectro, más allá del cabo de la Ira y del Brazo Roto, a lo largo de la costa de Dorne y hasta el Rejo.\"",
+        "name": "Dale Seaworth",
+        "text": "<b>Reacción:</b> despues de que reclutes a Dale Seaworth, elige un Lugar [baratheon] que esté en tu pila de descartes y devuélvelo a tu mano.",
+        "traits": "Capitán."
+    },
+    {
+        "code": "14011",
+        "flavor": "Con cuatro veces más naves que el rey niño, ser Imry no veía la necesidad de ser precavido ni de utilizar tácticas engañosas.",
+        "name": "Ser Imry Florent",
+        "text": "<b>Acción:</b> mata a Ser Imry Florent para elegir a un adversario. Puedes sacrificar cualquier cantidad de Lugares. Por cada Lugar sacrificado de este modo ese adversario deberá arrodillar un Personaje en pie que controle de su elección.",
+        "traits": "Casa Florent. Caballero."
+    },
+    {
+        "code": "14012",
+        "flavor": "La sacerdotisa roja encendía hogueras a diario al llegar el ocaso, para dar las gracias a R'hllor por día que terminaba y suplicarle que a la mañana siguiente volviera a enviar el Sol para que dispersara la oscuridad.",
+        "name": "Sacerdote rojo",
+        "text": "<b>Reacción:</b> despues de que el Sacerdote rojo entre en juego, mira la mano de un adversario. Luego elige 1 carta de esa mano y retírala del juego hasta que el Sacerdote rojo abandone el juego.",
+        "traits": "R'hllor."
+    },
+    {
+        "code": "14013",
+        "flavor": "",
+        "name": "Shyra Errol",
+        "text": "<b>Interrupción:</b> cuando muera un Personaje, sacrifica a Shyra Errol para trasladar todo el Poder de ese Personaje hasta la carta de Facción del jugador que lo controla.",
+        "traits": "Lady."
+    },
+    {
+        "code": "14014",
+        "flavor": "\"Cualquier gato puede mirar el fuego y ver ratones rojos.\"<cite>Melisandre</cite>",
+        "name": "Acólita de la Llama",
+        "text": "<b>Reacción:</b> despues de que empiece la fase de Robo, arrodilla a la Acólita de la Llama para mirar las 2 primeras cartas del mazo de un adversario. Puedes poner esas cartas en la parte inferior del mazo de ese jugador.",
+        "traits": "Aliado. R'hllor."
+    },
+    {
+        "code": "14015",
+        "flavor": "\"Si alguien se acuesta con suficientes mujeres, unas cuantas le dejarán regalitos, y en ese sentido. Su Alteza no ha mostrado el menor recato.\"<cite>Meñique</cite>",
+        "name": "Bastarda de Robert",
+        "text": "Mientras controles a Robert Baratheon, reduce en 2 el coste para reclutar a la Bastarda de Robert.\n<b>Reacción:</b> despues de que después de que la Bastarda de Robert entre en juego, si controlas un Personaje <i>Rey</i>, roba 1 carta.",
+        "traits": "Aliado. Bastardo."
+    },
+    {
+        "code": "14016",
+        "flavor": "Un contrabandista tenía que conocer a los hombres tan bien como las mareas o no duraba mucho tiempo en el negocio.",
+        "name": "Contrabandista astuto",
+        "text": "<b>Acción:</b> elige 1 carta de tu mano y colócala en la parte superior de tu mazo. Luego, al final de la fase, roba 1 carta. (Límite de 1 vez por ronda.)",
+        "traits": "Contrabandista."
+    },
+    {
+        "code": "14017",
+        "flavor": "",
+        "name": "Las Tierras de la Tormenta",
+        "text": "Puedes iniciar un reto [power] adicional durante la fase de Reto.\n<b>Reacción:</b> despues de que ganes un reto [power], arrodilla Las Tierras de la Tormenta para poner en pie un Personaje <i>Rey</i> o <i>Reina</i> participante de tu elección.",
+        "traits": "Poniente."
+    },
+    {
+        "code": "14018",
+        "flavor": "Unos años antes no se habría atrevido a atracar en el cabo de la Ira; los señores de la tormenta eran muy leales a la casa Baratheon y al rey Robert.",
+        "name": "Cabo de la Ira",
+        "text": "Durante retos [power] en los que tú seas el jugador atacante o defensor, aumenta en 1 el valor de Conquista de la carta de Trama mostrada por el jugador atacante.",
+        "traits": "Poniente."
+    },
+    {
+        "code": "14019",
+        "flavor": "Uno de los navíos de guerra de Salladhor Saan navegaba por las aguas que rodeaban el castillo; su alegre casco con rayas pintadas cortaba las aguas verde grisáceo a medida que los remos se alzaban y volvían a hundirse en ellas.",
+        "name": "Galera Lysena",
+        "text": "<b>Acción:</b> arrodilla la Galera lysena para elegir un Personaje. Hasta el final de la fase, ese Personaje recibe un +1 a su FUE. Si ese Personaje es <i>Capitán</i> o <i>Contrabandista</i>, gana Sigilo hasta el final de la fase.",
+        "traits": "Barco de guerra."
+    },
+    {
+        "code": "14020",
+        "flavor": "",
+        "name": "La reencarnación de Azor Ahai",
+        "text": "Sólo Persojaes únicos que controles. Terminal.\nSe considera que el Personaje vinculado está participando en todos los retos en los que controles un Personaje <i>R'hllor</i> atacante.",
+        "traits": "Legado. R'hllor."
+    },
+    {
+        "code": "14021",
+        "flavor": "\"Mató al jabalí. Se le salían las entrañas del vientre, pero consiguió matar al jabalí.\"<cite>Renly Baratheon</cite>",
+        "name": "Accidente de caza",
+        "text": "Emboscada 3. Terminal.\nEl Personaje vinculado no puede ponerse en pie.",
+        "traits": "Estado."
+    },
+    {
+        "code": "14022",
+        "flavor": "\"Robert habría galopado él solo hasta las puertas de Invernalia, las habría derribado con su martillo y luego habría avanzado a caballo entre los cascotes...\"<cite>Stannis Baratheon</cite>",
+        "name": "Martillo de guerra",
+        "text": "Si la FUE impresa del Personaje vinculado es 4 o menos, recibe un +2 a su FUE.\nSi la FUE impresa del Personaje vinculado es 5 o más, gana Intimidación.",
+        "traits": "Arma."
+    },
+    {
+        "code": "14023",
+        "flavor": "",
+        "name": "\"Un barril de cerveza\"",
+        "text": "<b>Reacción:</b> despues de que ganes un reto [power], elige 2 cartas controladas por el mismo jugador. Traslada hasta 2 de Poder desde una de esas cartas hasta la otra.",
+        "traits": "Canción."
+    },
+    {
+        "code": "14024",
+        "flavor": "",
+        "name": "Visiones en una hoguera nocturna",
+        "text": "Juega esta carta sólo si controlas un Personaje <i>R'hllor</i>.\n<b>Acción de Impuestos:</b> nombra un <i>Rasgo</i>. Si un adversario muestra una carta de Trama que posea ese <i>Rasgo</i> durante la próxima fase de Trama, roba 3 cartas.",
+        "traits": "R'hllor"
+    },
+    {
+        "code": "14025",
+        "flavor": "",
+        "name": "Hombres de Botley",
+        "text": "<b>Reacción:</b> despues de que un adversario reciba ingresos, devuelve a la Tesorería 1 de Oro del suministro de Oro de ese jugador.",
+        "traits": "Casa Botley. Asaltante."
+    },
+    {
+        "code": "14026",
+        "flavor": "... no erade extrañar que las islas recibieran el nombre de tierra de los diez mil reyes.",
+        "name": "Cada capitán es rey",
+        "text": "<b>Acción:</b> hasta el final de la fase, cada Personaje <i>Capitán</i> que controles gana el rasgo <i>Rey</i> y no se arrodilla al ser declarado como atacante en retos [power].",
+        "traits": ""
+    },
+    {
+        "code": "14027",
+        "flavor": "\"Gregor es muy corpulento. Y muy idiota. Por lo visto, demasiado idiota para saber cuándo se tiene que morir.\"",
+        "name": "Ser Gregor Clegane",
+        "text": "Intimidación. Pillaje.\n<b>Reacción obligada:</b> despues de que ganes un reto en el que esté participando Ser Gregor Clegane, mata a un Personajeque controles de tu elección.",
+        "traits": "Caballero. Casa Clegane."
+    },
+    {
+        "code": "14028",
+        "flavor": "El casco era negro y dorado, y el mascarón de proa, un león que amenazaba con una garra",
+        "name": "Estrellaleón",
+        "text": "<b>Acción:</b> arrodilla Estrellaleón para poner en juego desde tu mano un Personaje [lannister] que tenga un coste impreso de 4 o menos. Al final de la fase, si esa carta aún sigue en juego, descártala de juego.",
+        "traits": "Barco de guerra."
+    },
+    {
+        "code": "14029",
+        "flavor": "",
+        "name": "Asistente del Príncipe",
+        "text": "<b>Acción de Reclutamiento:</b> arrodilla al Asistente del Príncipe para reducir en 2 el coste del siguiente Personaje [martell] <i>Lord</i> o <i>Lady</i> que reclutes en esta fase.",
+        "traits": "Aliado."
+    },
+    {
+        "code": "14030",
+        "flavor": "",
+        "name": "Sepulcro del Rey",
+        "text": "<b>Reacción:</b> despues de que pierdas un reto [power] por 5 o más de FUE, arrodilla y sacrifica Sepulcro del Rey para devolver un Personaje participante de tu elección a la mano de su propietario. (Si ese Personaje tiene el rasgo <i>Rey</i>, en vez de eso puedes matarlo.)",
+        "traits": "Casa Manwoody."
+    },
+    {
+        "code": "14031",
+        "flavor": "\"Si, ocho mil años son un período muy largo, claro... pero si la Guardia de la Noche no recuerda, ¿quién lo hará?\"<cite>Viejo Oso Mormont</cite>",
+        "name": "Protectores del reino",
+        "text": "Sin Accesorios.\nX es tu valor de Reserva.",
+        "traits": "Ejército."
+    },
+    {
+        "code": "14032",
+        "flavor": "\"No han tocado tres nunca. Jamás, en miles y miles de años. Tres significa...\"<cite>Samwell Tarly</cite>",
+        "name": "El cuerno que despierta a los durmientes",
+        "text": "<b>Reacción:</b> despues de que un adversario inicie un reto contra ti, pon en pie un Personaje <i>Constructor</i> de tu elección, un Personaje <i>Explorador</i> de tu elección y un Personaje <i>Mayordomo</i> de tu elección.",
+        "traits": ""
+    },
+    {
+        "code": "14033",
+        "flavor": "\"Mucho me temo que sois más valiente que yo. ¿Todas las mujeres de vuestra Isla del Oso son así de guerreras?\"<cite>Catelyn Stark</cite>",
+        "name": "Osa",
+        "text": "<b>Reacción:</b> despues de que reclutes a la Osa, puedes poner en juego desde tu mano un Personaje o Accesorio [stark] que tenga un coste impreso de 3 o menos.",
+        "traits": "Casa Mormont"
+    },
+    {
+        "code": "14034",
+        "flavor": "\"Es una mujer vestida con una piel de oso. Lleva en un brazo a un niño al que amamanta. En la otra mano tiene un hacha de batalla. No se puede decir que sea una verdadera dama, pero siempre me ha encantado.\"<cite>Dacey Mormont</cite>",
+        "name": "Manto de piel de oso",
+        "text": "El Personaje vinculado recibe un +1 a su FUE.\nSi el Personaje vinculado posee el rasgo <i>Casa Mormont</i>, gana Sigilo.",
+        "traits": "Objeto."
+    },
+    {
+        "code": "14035",
+        "flavor": "Haggo, que era enorme y silencioso, la miraba a menudo como si hubiera olvidado quién era.",
+        "name": "Haggo",
+        "text": "<b>Reacción:</b> despues de que ganes un reto en el que Haggo esté participando, descarta una carta de tu mano para elegir una carta <i>Dothraki</i> que esté en tu pila de descartes y devolverla a tu mano.",
+        "traits": "Jinete de sangre. Dothraki."
+    },
+    {
+        "code": "14036",
+        "flavor": "",
+        "name": "Corcel Dothraki",
+        "text": "Máximo 1 por Personaje.\nMientras el Personaje vinculado esté atacando, recibe un +1 a su FUE (+3 a su FUE si posee el rasgo <i>Dothraki</i>).",
+        "traits": "Caballo de guerra."
+    },
+    {
+        "code": "14037",
+        "flavor": "",
+        "name": "Caballero de Torrealta",
+        "text": "<b>Acción:</b> arrodilla un Personaje <i>Caballero</i> que no sea [tyrell] para poner en juego desde tu mano al Caballero de Torrealta.",
+        "traits": "Casa Hightower. Caballero."
+    },
+    {
+        "code": "14038",
+        "flavor": "\"En Altojardín hay campos enteros de rosas doradas que se extienden hasta donde alcanza la vista.\"<cite>Robert Baratheon</cite>",
+        "name": "Campos del Dominio",
+        "text": "<b>Reacción:</b> despues de que ganes un reto [power], arrodilla 3 Lugares de <i>El Dominio</i> para aumentar en 1 el valor de Conquista de tu carta de Trama mostrada hasta el final del reto.",
+        "traits": "El Dominio."
+    },
+    {
+        "code": "14039",
+        "flavor": "\"Nunca me han gustado las reprimendas, como os podrían decir un buen número de hombres muertos.\"",
+        "name": "Lyn Corbray",
+        "text": "Sigilo.\n<b>Reacción:</b> despues de que un adversario inicie un reto [power] contra ti, pon en pie a Lyn Corbray.",
+        "traits": "Casa Arryn. Caballero."
+    },
+    {
+        "code": "14040",
+        "flavor": "Tomaron parte casi cuarenta hombres, jinetes libres, caballeros sin tierras, escuderos deseosos de labrarse un reputación...",
+        "name": "Campeón inesperado",
+        "text": "Mientras controles un Personaje <i>Lord</i> o <i>Lady</i>, el Campeón inesperado gana un icono [power].",
+        "traits": "Caballero."
+    },
+    {
+        "code": "14041",
+        "flavor": "Aquella tarde, un muchacho llamado Anguy, un plebeyo desconocido procedente de las Marcas de Dorne, ganó en la competición de tiro con arco a ser Balon Swann y a Falabhar Xho, a cien pasos...",
+        "name": "Anguy el Arquero",
+        "text": "Mientras no controles Personajes leales, Anguy el Arquero no se arrodilla al ser declarado como atacante o defensor en un reto [military].",
+        "traits": "Hermandad. R'hllor."
+    },
+    {
+        "code": "14042",
+        "flavor": "\"Un refugio por donde no rondan los lobos ni los leones.\"<cite>Lim Capa de Limón</cite>",
+        "name": "La Colina Hueca",
+        "text": "<b>Acción de Dominación:</b> si no controlas Personajes leales, arrodilla La Colina Hueca para buscar un Personaje no leal entre las 10 primeras cartas de tu mazo, mostrarlo y añadirlo a tu mano. Baraja tu mazo.",
+        "traits": "Hermandad. Poniente."
+    },
+    {
+        "code": "14043",
+        "flavor": "\"Mi señora tiene sed. Siempre que sale a bailar se toma una copa de vino tinto, bien rojo.\"<cite>Lyn Corbray</cite>",
+        "name": "Dama Desesperada",
+        "text": "El Personaje vinculado recibe un +1 a su FUE por cada Lugar neutral que controles. Si el Personaje vinculado es Lyn Corbray, gana un icono [power].",
+        "traits": "Acero valyrio. Arma."
+    },
+    {
+        "code": "14044",
+        "flavor": "\"Os lo agradezco, mis señores... pero escupo sobre vuestra compasión.\"<cite>Ser Barristan Selmy</cite>",
+        "name": "Desafío",
+        "text": "<b>Acción de Reto:</b> pon en pie un Personaje de tu elección que no haya participado en ningún reto en esta fase. (Máximo 1 por fase.)",
+        "traits": ""
+    },
+    {
+        "code": "14045",
+        "flavor": "",
+        "name": "El príncipe que nos fue prometido",
+        "text": "Después de que hayan declarado todas las Estrategias, nombra un Personaje único.\nLos demás Personajes que controles no pueden ganar Poder.\n<b>Reacción:</b> despues de que ganes un reto [power] por 5 o más de FUE, arrodilla tu carta de Facción para elegir una de las siguientes opciones: poner en pie al Personaje nombrado y robar 1 carta, o bien buscar al Personaje nombrado en tu mazo, tu pila de descartes y tu pila de muertos, mostrarlo, añadirlo a tu mano y barajar tu mazo.",
+        "traits": "Profecía."
+    },
+    {
+        "code": "14046",
+        "flavor": "",
+        "name": "Parlamento en Bastión de Tormentas",
+        "text": "<b>Cuando se muestre esta carta:</b> nombra un tipo de reto. Hasta que muestres una nueva carta de Trama, no podrán iniciarse retos de ese tipo.",
+        "traits": "Asedio. Guerra."
+    },
+    {
+        "code": "14047",
+        "flavor": "",
+        "name": "El triunfo del ingenio",
+        "text": "<b>Interrupción:</b> cuando vayan a iniciarse los efectos de una capacidad de tipo \"Cando se muestre esta carta\", arrodilla tu carta de Facción y un Personaje <i>Maestre</i> único para anular esos efectos.",
+        "traits": "Conspiración."
+    },
+    {
+        "code": "14048",
+        "flavor": "",
+        "name": "Preparativos para el asedio",
+        "text": "<b>Acción de Dominación:</b> roba cartas hasta que tengas en tu mano tantas cartas como t valor de Reserva. (Límite de 1 vez por fase.)",
+        "traits": "Asedio."
+    },
+    {
+        "code": "14049",
+        "flavor": "",
+        "name": "Racionamiento",
+        "text": "Ningún jugador puede activar reacciones a ganar o perder retos.",
+        "traits": "Edicto. Invierno."
+    },
+    {
+        "code": "14050",
+        "flavor": "",
+        "name": "Ataque desesperado",
+        "text": "Mientras seas el jugador defensor, aumenta en 1 el valor de Conquista de la carta de Trama mostrada por el jugador atacante.",
+        "traits": "Guerra."
+    },
+    {
+        "code": "14051",
+        "flavor": "",
+        "name": "Torneo de la Mano",
+        "text": "<b>Interrupción obligada:</b> cuando se aplique el efecto de Conquista de un reto [military], aplica en su lugar un efecto de Conquista [power].",
+        "traits": "Reino. Verano."
+    },
+    {
+        "code": "14052",
+        "flavor": "",
+        "name": "Los nuevos dioses",
+        "text": "Los Persojaes <i>Los Siete</i> que controles no se arrodillan cuando son declarados como atacantes en el primer reto que inicies durante la fase de Reto.",
+        "traits": "Los Siete."
+    }
+]

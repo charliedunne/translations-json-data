@@ -81,7 +81,7 @@
         "flavor": "En aquellos tiempos, los hijos del hierro no trabajaban en las minas; aquello se quedaba para los cautivos que tomaban en sus expediciones.",
         "name": "Minas de hierro",
         "text": "<b>Interrupción:</b> cuando un Personaje vaya a morir, sacrifica las Minas de Hierro para salvar a ese Personaje.",
-        "traits": "Iron Islands."
+        "traits": "Islas del Hierro."
     },
     {
         "code": "02093",
@@ -115,7 +115,7 @@
         "code": "02097",
         "flavor": "",
         "name": "Calle del Acero",
-        "text": "<b>Reacción:</b> después´de que ganes un reto [military], arrodilla tu carta de Facción para buscar entre las 10 primeras cartas de tu mazo un Accesorio <i>Arma</i> u <i>Objeto</i>, mostrarlo y añadirlo a tu mano. Baraja tu mazo.",
+        "text": "<b>Reacción:</b> después de que ganes un reto [military], arrodilla tu carta de Facción para buscar entre las 10 primeras cartas de tu mazo un Accesorio <i>Arma</i> u <i>Objeto</i>, mostrarlo y añadirlo a tu mano. Baraja tu mazo.",
         "traits": "Desembarco del Rey."
     },
     {

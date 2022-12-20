@@ -1,0 +1,366 @@
+[
+    {
+        "code": "15001",
+        "flavor": "\"¿Para qué hacen los dioses a los reyes y a las reinas, si no es para que protejan a los que no pueden protegerse solos?\"",
+        "name": "Daenerys Targaryen",
+        "text": "<b>Acción:</b> busca entre las 10 primeras cartas de tu mazo una carta de Accesorio o <i>Dragón</i>, muéstrala y añádela a tu mazo (si su coste impreso es de 3 o menos, en vez de eso puedes ponerla en juego). Baraja tu mazo. (Límite 1 vez por ronda.)",
+        "traits": "Lady. Reina. De la Tormenta."
+    },
+    {
+        "code": "15002",
+        "flavor": "",
+        "name": "Drogon",
+        "text": "Sin Accesorios.\nCada Personaje <i>De la Tormenta</i> que controles gana Renombre.\n<b>Reacción:</b> después de que ganes un reto en el que Drogon esté atacando, mata a todos los Personajes controlados por el jugador defensor que tengan FUE 1 o menos.",
+        "traits": "Dragón."
+    },
+    {
+        "code": "15003",
+        "flavor": "",
+        "name": "Rhaegal",
+        "text": "Sin Accesorios.\n<b>Reacción:</b> después de que ganes un reto en el que Rhaegal esté atacando, pon en pie otro Personaje de tu elección que controles. Luego, si ese Personaje tiene los rasgos <i>Dragón</i> o <i>De la Tormenta</i>, pon en pie a Rhaegal. (Límite de 1 vez por fase.)",
+        "traits": "Dragón."
+    },
+    {
+        "code": "15004",
+        "flavor": "",
+        "name": "Viserion",
+        "text": "Sin Accesorios.\nCada Personaje <i>De la Tormenta</i> que controles gana Sigilo.\nMientras Viserion esté atacando, cada Personaje participante que no sea <i>Dragón</i> ni <i>De la Tormenta</i> recibe un -2 a su FUE.",
+        "traits": "Dragón."
+    },
+    {
+        "code": "15005",
+        "flavor": "\"Vamos, sangre mía. Los sementales llaman; este lugar está en ruinas. Es hora de cabalgar.\"",
+        "name": "Khal Drogo",
+        "text": "Renombre.\n<b>Interrupción:</b> cuando un Personaje <i>Ejército</i> o <i>Dothraki</i> vaya a devolverse a tu mano, descarta 1 carta de tu mano para salvarlo.",
+        "traits": "Dothraki. Lord."
+    },
+    {
+        "code": "15006",
+        "flavor": "",
+        "name": "Galazza Galare",
+        "text": "<b>Reacción:</b> después de que reclutes a Galazza Galare, busca entre las 10 primeras cartas de tu mazo una de las siguientes combinaciones: un Personaje [targaryen] con un coste impreso de 6 o más, o bien hasta 3 Personajes [targaryen con un coste impreso de 2 o menos cada uno. Muestra cada carta que hayas encontrado y añádela a tu mano. Baraja tu mazo.",
+        "traits": "Gracia."
+    },
+    {
+        "code": "15007",
+        "flavor": "\"Hemos visto cómo te golpeaba, khalesi. ¿Quieres ver tú el color de su sangre?\"",
+        "name": "Jhogo",
+        "text": "<b>Reacción:</b> después de que ganes un reto [military] en el que controles al menos 2 Personajes <i>Dothraki</i> atacantes, traslada 1 de Poder desde la carta de Facción del adversario derrotado hasta la tuya.",
+        "traits": "Jinete de sangre. Dothraki."
+    },
+    {
+        "code": "15008",
+        "flavor": "\"... en mi opinión, la sangre se paga con sangre. Elegid a un hombre de cada una de las familias que he nombrado y matadlo. La próxima vez que asesinen a uno de los nuestros, elegid a dos de cada casa importante y matadlos. No habrá un tercer crimen.\"",
+        "name": "El Cabeza Afeitada",
+        "text": "<b>Acción de Reto:</b> paga X de Oro para poner en juego desde tu pila de descartes un Personaje con un coste impreso de X o menos. (Límite de 1 vez por fase.)",
+        "traits": ""
+    },
+    {
+        "code": "15009",
+        "flavor": "\"Khaleesi, más vale comer escorpiones vivos que confiar en el engendro de las sombras, que no se atreve a mostrar su rostro al sol. Lo sabe todo el mundo.\"",
+        "name": "Rakharo",
+        "text": "<b>Reacción:</b> despues de que ganes un reto [military] en el que controles al menos 2 Personajes <i>Dothraki</i> atacantes, descarta 1 carta al azar de la mano del adversario derrotado.",
+        "traits": "Jinete de sange. Dothraki."
+    },
+    {
+        "code": "15010",
+        "flavor": "\"Ese hombre tiene una reputación nefasta incluso en Poniente. No os dejéis engañar por su talante, Alteza.\"<cite>Ser Barristan Selmy</cite>",
+        "name": "El Bastardo del Titán",
+        "text": "<b>Acción:</b> arrodilla a El Bastardo del Titán para devolver un Personaje <i>Mercenario</i> a tu mano desde tu pila de descartes.",
+        "traits": "Bastardo. Comandante. Mercenario."
+    },
+    {
+        "code": "15011",
+        "flavor": "También había intentado prohibir los combates entre mujeres, pero Barsena Pelonegro argumentó que tenía tanto derecho como cualquier hombre a arriesgar la vida.",
+        "name": "Barsena Pelonegro",
+        "text": "Sin Accesorios excepto <i>Arma</i>.\nMientras Barsena Pelonegro tenga vinculado un Accesorio de tipo <i>Arma</i>, recibe un +3 a su FUE.",
+        "traits": "Luchador de reñidero."
+    },
+    {
+        "code": "15012",
+        "flavor": "Al principio, Groleo había querido que los dragones estuvieran enjaulados, y Dany había dado su consentimiento para aliviar los temores del capitán, pero el sufrimiento de los animales era tan palpable que pronto cambió de idea e insistió en que los liberaran.",
+        "name": "Capitán Groleo",
+        "text": "<b>Reacción:</b> despues de que entre en juego un Accesorio, ganas 1 de Oro.(Límite de 1 vez por fase.)",
+        "traits": "Capitán."
+    },
+    {
+        "code": "15013",
+        "flavor": "",
+        "name": "Gracias azules",
+        "text": "<b>Acción de Reto:</b> retira del juego a las Gracias azules para elegir una carta de tu pila de descartes o tu pila de muertos que tenga un coste impreso de 6 o más, añadirla a tu mazo y luego barajarlo.",
+        "traits": "Aliado. Gracia."
+    },
+    {
+        "code": "15014",
+        "flavor": "",
+        "name": "Doncella Dothraki",
+        "text": "Mientras controles a Daenerys Targaryen, puedes reclutar cartas vinculadas boca abajo a la Doncella dothraki como si estuviesen en tu mano.\n<b>Acción de Reclutamiento:</b> muestra un Accesorio de tu mano. Cincúlalo boca abajo a la Doncella dothraki como Accesorio.",
+        "traits": "Acompañante. Dothraki."
+    },
+    {
+        "code": "15015",
+        "flavor": "Los señores de los caballos se ponían ropas lujosas y ricos perfumes cuando visitaban las Ciudades Libres, pero a cielo abierto mantenían las viejas costumbres.",
+        "name": "Señor de los caballos",
+        "text": "Mientras el Señor de los caballos esté atacando, recibe un +1 a su FUE por cada Personaje <i>Dothraki</i> atacante que controles aparte de él.",
+        "traits": "Dothraki."
+    },
+    {
+        "code": "15016",
+        "flavor": "\"Hay mercenarios viejos y mercenarios valerosos, pero no hay mercenarios viejos y valerosos.\"",
+        "name": "Ben Plumm el Moreno",
+        "text": "<b>Interrupción Obligada:</b> cuando termine la fase de Reto, si no tienes Oro en tu suministro de Oro, sacrifica a Ben Plumm el Moreno.",
+        "traits": "Mercenario."
+    },
+    {
+        "code": "15017",
+        "flavor": "",
+        "name": "El Vientre del Mundo",
+        "text": "<b>Acción:</b> arrodilla El Vientre del Mundo para mostrar las 5 primeras cartas de tu mazo. Puedes elegir un Personaje <i>Dothraki</i> mostrado de este modo y ponerlo en juego. Baraja tu mazo. Al final de la fase, si ese Personaje aún está en juego, devuélvelo a tu mano.",
+        "traits": "Essos."
+    },
+    {
+        "code": "15018",
+        "flavor": "\"Hay huertos, sembradíos, minas... Hasta yo poseo algunas, aunque rara vez las visito. ¿Por qué voy a pasar mis días aquí, con la miríada de delicias que me ofrece Pentos?\"<cite>Magíster Illyrio</cite>",
+        "name": "Pentos",
+        "text": "<b>Reacción:</b> despues de que robes un Accesorio, arrodilla Pentos para mostrar ese Accesorio y ponerlo en juego. Luego roba 1 carta.",
+        "traits": "Essos. Ciudades Libres."
+    },
+    {
+        "code": "15019",
+        "flavor": "",
+        "name": "Khaleesi",
+        "text": "Solo Personajes <i>Lady</i>.\n<b>Reacción:</b> despues de que ganes un reto en el que esté participando el Personaje vinculado, arrodilla Khaleesi para poner en pie al Personaje vinculado o bien para aumentar el valor de Conquista de tu carta de Trama mostrada en 1 hasta el final del reto.",
+        "traits": "Título."
+    },
+    {
+        "code": "15020",
+        "flavor": "",
+        "name": "Huevo de dragón",
+        "text": "El Personaje vinculado gana Perspicacia.\n<b>Reacción:</b> despues de que empiece la fase de Reclutamiento, si el Personaje vinculado es Daenerys Targaryen, sacrifica el Huevo de dragón para buscar en tu mazo un Personaje <i>Cría</i> y ponerlo en juego. Baraja tu mazo.",
+        "traits": "Dragón. Objeto."
+    },
+    {
+        "code": "15021",
+        "flavor": "En los reñideros, nadie llevaba armadura; lo que el público pedía eran sangre, muerte, dsmembramientos y gritos de agonía: la música de las arenas escarlata.",
+        "name": "Espada de luchador de reñidero",
+        "text": "El Personaje vinculado gana Renombre durante retos [military].",
+        "traits": "Arma."
+    },
+    {
+        "code": "15022",
+        "flavor": "",
+        "name": "Superioridad numérica",
+        "text": "Juega esta carta sólo durante un reto en el que controles al menos 2 Personajes <i>Dothraki</i> atacantes.\n<b>Acción:</b> pon en juego hasta 2 Personajes <i>Dothraki</i> desde tu mano y tu pila de descartes, arrodillados y participando como atacantes. Al final del reto, si algunos de esos Personajes aún están en juego, devuélvelos a tu mano. (Máximo 1 por reto.)",
+        "traits": ""
+    },
+    {
+        "code": "15023",
+        "flavor": "\"Porque los dragones son fuego hecho carne, y el fuego es poder\"<cite>Quaithe de la Sombra</cite>",
+        "name": "Fuego hecho carne",
+        "text": "<b>Acción de Reclutamiento:</b> sacrifica un Personaje <i>Cría</i> para buscar en tu mano y en tu mazo un Personaje <i>Dragón</i> con el mismo nombre y ponerlo en juego. Baraja tu mazo.",
+        "traits": ""
+    },
+    {
+        "code": "15024",
+        "flavor": "",
+        "name": "Incinerar",
+        "text": "<b>Acción:</b> elige un Personaje participante y descarta al menos 1 carta de tu mano. Hasta el final del reto, ese Personaje recibe un -2 a su FUE por cada carta descartada de este modo.",
+        "traits": ""
+    },
+    {
+        "code": "15025",
+        "flavor": "",
+        "name": "Delena Florent",
+        "text": "Durante la fase de Reto, no podrán ponerse en pie Personajes que no sean <i>Bastardo</i>.\n<b>Reacción:</b> despues de que Delena Florent entre en juego, busca en tu mazo un Personaje <i>Bastardo</i>, muéstralo y añádelo a tu mano. Baraja tu mazo.",
+        "traits": "Casa Florent. Lady."
+    },
+    {
+        "code": "15026",
+        "flavor": "",
+        "name": "Conversa de Rocadragón",
+        "text": "<b>Acción de Reto:</b> nombra un Evento. Hasta el final de la fase, no podrán jugarse Eventos que tenga ese nombre. (Límite de 1 vez por fase.)",
+        "traits": "Casa Florent. R'hllor."
+    },
+    {
+        "code": "15027",
+        "flavor": "\"Rodrik no tiene hijas; sólo libros. Hotho será su heredero, y yo seré rey.\"<cite>Victarion Greyjoy</cite>",
+        "name": "Hotho el Jorobado",
+        "text": "<b>Acción de Reto:</b> cada jugador roba 1 carta. Cada jugador comprueba su Reserva. (Límite de 1 vez por ronda.)",
+        "traits": "Casa Harlaw."
+    },
+    {
+        "code": "15028",
+        "flavor": "",
+        "name": "Galera de Diez Torres",
+        "text": "Mientras la Galera de Diez Torres esté en pie, reduce en 1 el valor de Reserva de la carta de Trama mostrada de cada adversario.\n<b>Acción:</b> arrodilla un Lugar que tenga un coste impreso de 2 o más para arrodillar la Galera de Diez Torres. Cualquier jugador puede utilizar esta capacidad.",
+        "traits": "Casa Harlaw. Barco de guerra."
+    },
+    {
+        "code": "15029",
+        "flavor": "A ser Meryn Trant no le importaba en absoluto.",
+        "name": "Ser Meryn Trant",
+        "text": "<b>Interrupción:</b> cuando se descarte una carta de la mano de un adversario, retírala del juego en vez de colocarla en su pila de descartes.",
+        "traits": "Guardia Real. Caballero."
+    },
+    {
+        "code": "15030",
+        "flavor": "",
+        "name": "La Fortaleza Roja",
+        "text": "<b>Interrupción:</b> cuando vayan a iniciarse los efectos de una capacidad activada de un Personaje, Lugar o Accesorio de un adversario, arrodilla La Fortaleza Roja para anular estos efectos.",
+        "traits": "Desembarco del Rey"
+    },
+    {
+        "code": "15031",
+        "flavor": "\"Será un honor que me permitáis serviros.\"",
+        "name": "Sylva Pintas",
+        "text": "<b>Reacción obligada:</b> despues de que pierdas un reto en el que Sylva Pintas esté atacando, cada jugador debe elgir un Personaje participante que controle (si puede) y devolverlo a la mano de su propietario.",
+        "traits": "Casa Santagar. Lady."
+    },
+    {
+        "code": "15032",
+        "flavor": "",
+        "name": "Elegir la lanza",
+        "text": "<b>Reacción:</b> despues de que un Personaje [martell] que controles sea declarado como atacante en un reto [military], aumenta el valor de Conquista de tu carta de Trama mostrada en 1 hasta el final del reto. Si pierdes el reto, mata a un Personaje que controles de tu elección. (Máximo 1 por reto.)",
+        "traits": ""
+    },
+    {
+        "code": "15033",
+        "flavor": "\"Puede que sean cosas mías, lord comandante, pero... esta carta me da mala espina.\"",
+        "name": "Clydas",
+        "text": "<b>Acción:</b> traslada 1 de Oro desde el suministro de Oro de un adversario hasta el tuyo. (Límite de 1 vez por fase.)",
+        "traits": "Mayordomo."
+    },
+    {
+        "code": "15034",
+        "flavor": "",
+        "name": "Jaula de cuervos",
+        "text": "Sólo Personajes <i>Mayordomo</i>.\n<b>Acción:</b> arrodilla la Jaula del cuervos para poner en juego desde tu mano una carta con un coste impreso de 1 o menos.",
+        "traits": "Objeto. Cuervo."
+    },
+    {
+        "code": "15035",
+        "flavor": "\"¡Era nuestro rey! Era bueno y valiente, y los Frey lo asesinaron. Si lord Stannis está dispuesto a vengarlo, deberíamos unirnos a él.\"",
+        "name": "Wylla Manderly",
+        "text": "<b>Reacción:</b> despues de que un Personaje que controles muera o sea sacrificado, elige otra carta que esté en tu pila de descartes y colócala en la parte inferior de tu mazo. (Límite de 1 vez por fase.)",
+        "traits": "Casa Manderly. Lady."
+    },
+    {
+        "code": "15036",
+        "flavor": "En la madera se clavaron las saetas, una, dos, tres, mientras la ponía sobre su rey para protegerlo.",
+        "name": "Luchar hasta el final",
+        "text": "<b>Interrupción:</b> cuando un Personaje que controles vaya a morir, sálvalo, ponlo en pie y fija su FUE en 1 hasta el final de la fase. Al final de la fase, si ese Personaje aún sigue en juego, mátalo (no puede salvarse).",
+        "traits": ""
+    },
+    {
+        "code": "15037",
+        "flavor": "\"Mathis Rowan es sensato y prudente; la gente lo quiere.\"<cite>Ser Kevan Lannister</cite>",
+        "name": "Mathis Rowan",
+        "text": "<b>Acción:</b> elige a un adversario y un Personaje, Lugar o Accesorio que controles. Ese jugador toma el control de esa carta. Luego ganas 2 de Oro. (Límite de 1 vez por ronda.)",
+        "traits": "Lord. Consejo Privado."
+    },
+    {
+        "code": "15038",
+        "flavor": "",
+        "name": "El favor del campeón",
+        "text": "Sólo Personajes <i>Lady</i>.\n<b>Acción:</b> arrodilla al Personaje vinculado para elegir un Personaje participante que no sea <i>Lady</i> y otorgarle un +X a su FUE hasta el final del reto. X es 2 más que la FUE del Personaje vinculado.",
+        "traits": "Objeto."
+    },
+    {
+        "code": "15039",
+        "flavor": "\"En el Nido de Águilas no tenemos verdugos que decapiten, mi señor de Lannister. Simplemente, abrimos la Puerta de la Luna.\"",
+        "name": "Lysa Arryn",
+        "text": "<b>Interrupción:</b> cuando Lysa Arryn muera, retira del juego otro Personaje, Lugar o Accesorio de tu elección.",
+        "traits": "Casa Arryn. Casa Tully. Lady."
+    },
+    {
+        "code": "15040",
+        "flavor": "",
+        "name": "Tormund Matagigantes",
+        "text": "Intimidación.\n<b>Reacción:</b> despues de que ganes un reto en el que esté participando Tormund Matagigantes, pon 1 ficha de Alarde sobre su carta.\n<b>Acción:</b> descarta 1 ficha de Alarde de Tormund Matagigantes para otorgar a un Personaje <i>Salvaje</i> un +2 a la FUE y Renombre hasta el final de la fase.",
+        "traits": "Cuentacuentos. Salvaje."
+    },
+    {
+        "code": "15041",
+        "flavor": "",
+        "name": "Archimaestre Marwyn",
+        "text": "Una vez por fase, puedes reclutar o jugar una carta que esté boca abajo debajo de tu carta de Estrategia como si estuviese en tu mano.\n<b>Reacción:</b> despues de que el Archimaestre Marwyn entre enjuego, coloca las 2 primeras cartas de tu mazo debajo de tu carta de Estrategia, boaca abajo.",
+        "traits": "Maestre."
+    },
+    {
+        "code": "15042",
+        "flavor": "El Titán de Braavos (...) era un gigante alto como una montaña y, cuando un peligro se cernía sobre Braavos, se despertaba con fuego en los ojos, y los miembros de piedra le rechinaban y gemían mientras se adentraba en el mar para acabar con los enemigos.",
+        "name": "Braavos",
+        "text": "<b>Acción de Reclutamiento:</b> arrodilla Braavos para ganar X de Oro. X es el número de facciones distintas a las que pertenezcan los Personajes que controlas.",
+        "traits": "Essos. Ciudades Libres."
+    },
+    {
+        "code": "15043",
+        "flavor": "",
+        "name": "Espada de danzarín del agua",
+        "text": "Sólo Personajes con una FUE impresa de 3 o menos. Emboscada 1.\nEl Personaje vinculado recibe un +2 a su FUE.\n<b>Interrupción obligada:</b> cuando termine la fase de Reto, devuelve a tu mano la Espada de danzarín del agua.",
+        "traits": "Arma."
+    },
+    {
+        "code": "15044",
+        "flavor": "",
+        "name": "Devastar",
+        "text": "<b>Acción de Dominación:</b> elige un Lugar o Accesorio no Limitado y descártalo del juego. Luego el propietario de esa carta puede buscar en su mazo un Lugar o Accesorio con un coste impreso más bajo, ponerlo en juego y barajar su mazo.",
+        "traits": ""
+    },
+    {
+        "code": "15045",
+        "flavor": "Al desatar el cordón y ver el brillo de oro, los ojos del carcelero se abrieron como platos.",
+        "name": "Soborno",
+        "text": "<b>Acción:</b> arrodilla un Personaje de tu elección que tenga un coste impreso de X o menos. Si ese Personaje tiene los rasgos <i>Aliado</i> o <i>Mercenario</i>, en vez de eso puedes tomar el control de su carta.",
+        "traits": ""
+    },
+    {
+        "code": "15046",
+        "flavor": "",
+        "name": "La furia del khalasar",
+        "text": "<b>Reacción:</b> despues de que empiece la fase de Reto, ponen juego desde tu mano un Personaje <i>Dothraki</i>. Al final de la fase, si esa carta aún está en juego, devuélvela a tu mano.",
+        "traits": "Guerra."
+    },
+    {
+        "code": "15047",
+        "flavor": "",
+        "name": "El mensaje perdido",
+        "text": "<b>Acción:</b> cada jugador devuelve su mano a su mazo y lo baraja. Luego cada jugador añade a su mano las X primeras cartas de su mazo. X es el número de cartas que devolvieron a su mazo. (Límite de 1 vez por ronda.)",
+        "traits": "Conspiración."
+    },
+    {
+        "code": "15048",
+        "flavor": "",
+        "name": "Los Espadas Blancas",
+        "text": "<b>Cuando se muestre esta carta:</b> puedes poner en juego un Personaje <i>Guardia Real</i> desde tu mano o tu pila de descartes.",
+        "traits": "Guardia Real."
+    },
+    {
+        "code": "15049",
+        "flavor": "",
+        "name": "El desafío del campeón",
+        "text": "<b>Reacción:</b> despues de que un adversario inicie un reto contra ti, arrodilla un Personaje que tenga la FUE más alta de etre todos los Personajes que controles para finalizar el reto sin vencedor ni perdedor. (Límite de 1 vez por fase.)",
+        "traits": "Guerra."
+    },
+    {
+        "code": "15050",
+        "flavor": "",
+        "name": "En el Palacio del Pesar",
+        "text": "Fija la FUE de cada Personaje en 3. (Otros modificadores no aumentan ni reducen su FUE.)",
+        "traits": "Augurio."
+    },
+    {
+        "code": "15051",
+        "flavor": "",
+        "name": "Préstamo del Banco de Hierro",
+        "text": "Mientras el Préstamo del Banco de Hierro esté en tu pila de cartas usadas, el valor de Oro de tu carta de Trama mostrada se reduce en 1.",
+        "traits": "Reino."
+    },
+    {
+        "code": "15052",
+        "flavor": "",
+        "name": "El Príncipe que llegó tarde",
+        "text": "<b>Acción de Puesta en pie:</b> busca un Personaje en tu mazo y ponlo en juego. Baraja tu mazo. (Límite de 1 vez por ronda.)",
+        "traits": "Legado. Nobleza."
+    }
+]

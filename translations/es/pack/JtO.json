@@ -31,7 +31,7 @@
         "code": "08025",
         "flavor": "Con el pelo rubio y los ojos color avellana, el joven y atractivo bardo de Guardaoriente parecía más un príncipe que un hermano negro.",
         "name": "Dareon",
-        "text": "<b>Reacción:</b> después de que juegues un Evento de <i>Canción</b>, elige a un adversario. Traslada 1 de Oro desde el suministro de Oro de ese jugador al tuyo. (Límite de 1 vez por fase.)",
+        "text": "<b>Reacción:</b> después de que juegues un Evento de <i>Canción</i>, elige a un adversario. Traslada 1 de Oro desde el suministro de Oro de ese jugador al tuyo. (Límite de 1 vez por fase.)",
         "traits": "Juglar. Mayordomo."
     },
     {

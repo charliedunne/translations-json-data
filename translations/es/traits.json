@@ -1,0 +1,530 @@
+[
+    {
+        "code": "Knight",
+        "name": "Caballero"
+    },
+    {
+        "code": "Dream",
+        "name": "Sueño"
+    },
+    {
+        "code": "House Redwyne",
+        "name": "Casa Redwyne"
+    },
+    {
+        "code": "Warhorse",
+        "name": "Caballo de guerra"
+    },
+    {
+        "code": "Ranger",
+        "name": "Explorador"
+    },
+    {
+        "code": "Weapon",
+        "name": "Arma"
+    },
+    {
+        "code": "Fool",
+        "name": "Bufón"
+    },
+    {
+        "code": "Edict",
+        "name": "Edicto"
+    },
+    {
+        "code": "Scheme",
+        "name": "Conspiración"
+    },
+    {
+        "code": "House Clegane",
+        "name": "Casa Clegane"
+    },
+    {
+        "code": "Lord",
+        "name": "Lord"
+    },
+    {
+        "code": "Condition",
+        "name": "Estado"
+    },
+    {
+        "code": "Item",
+        "name": "Objeto"
+    },
+    {
+        "code": "Dothraki",
+        "name": "Dothraki"
+    },
+    {
+        "code": "Dorne",
+        "name": "Dorne"
+    },
+    {
+        "code": "Title",
+        "name": "Título"
+    },
+    {
+        "code": "Summer",
+        "name": "Verano"
+    },
+    {
+        "code": "House Frey",
+        "name": "Casa Frey"
+    },
+    {
+        "code": "House Tully",
+        "name": "Casa Tully"
+    },
+    {
+        "code": "The Riverlands",
+        "name": "Tierra de los Ríos"
+    },
+    {
+        "code": "Lady",
+        "name": "Lady"
+    },
+    {
+        "code": "Queen",
+        "name": "Reina"
+    },
+    {
+        "code": "Builder",
+        "name": "Constructor"
+    },
+    {
+        "code": "The North",
+        "name": "El Norte"
+    },
+    {
+        "code": "Ally",
+        "name": "Aliado"
+    },
+    {
+        "code": "Stronghold",
+        "name": "Fortaleza"
+    },
+    {
+        "code": "Clansman",
+        "name": "Miembro de clan"
+    },
+    {
+        "code": "Drowned God",
+        "name": "Dios Ahogado"
+    },
+    {
+        "code": "Contested",
+        "name": "Disputa"
+    },
+    {
+        "code": "Essos",
+        "name": "Essos"
+    },
+    {
+        "code": "Steward",
+        "name": "Mayordomo"
+    },
+    {
+        "code": "Wildling",
+        "name": "Salvaje"
+    },
+    {
+        "code": "Winter",
+        "name": "Invierno"
+    },
+    {
+        "code": "Kingdom",
+        "name": "Reino"
+    },
+    {
+        "code": "Ironborn",
+        "name": "Hijo del Hierro"
+    },
+    {
+        "code": "Captain",
+        "name": "Capitán"
+    },
+    {
+        "code": "Raider",
+        "name": "Asaltante"
+    },
+    {
+        "code": "House Harlaw",
+        "name": "Casa Harlaw"
+    },
+    {
+        "code": "Maester",
+        "name": "Maestre"
+    },
+    {
+        "code": "Warship",
+        "name": "Barco de guerra"
+    },
+    {
+        "code": "Iron Islands",
+        "name": "Islas del Hierro"
+    },
+    {
+        "code": "Valyrian Steel",
+        "name": "Acero Valyrio"
+    },
+    {
+        "code": "Smuggler",
+        "name": "Contrabandista"
+    },
+    {
+        "code": "House Dayne",
+        "name": "Casa Dayne"
+    },
+    {
+        "code": "House Yronwood",
+        "name": "Casa Yronwood"
+    },
+    {
+        "code": "Bloodrider",
+        "name": "Jinete de sangre"
+    },
+    {
+        "code": "Song",
+        "name": "Canción"
+    },
+    {
+        "code": "The Reach",
+        "name": "El Dominio"
+    },
+    {
+        "code": "House Arryn",
+        "name": "Casa Arryn"
+    },
+    {
+        "code": "Oldtown",
+        "name": "Antigua"
+    },
+    {
+        "code": "The Seven",
+        "name": " Los Siete"
+    },
+    {
+        "code": "Prophecy",
+        "name": "Profecía"
+    },
+    {
+        "code": "War",
+        "name": "Guerra"
+    },
+    {
+        "code": "Conclave",
+        "name": "Cónclave"
+    },
+    {
+        "code": "Wandering Crow",
+        "name": "Cuervo errante"
+    },
+    {
+        "code": "Kingsguard",
+        "name": "Guardia Real"
+    },
+    {
+        "code": "Westeros",
+        "name": "Poniente"
+    },
+    {
+        "code": "Small Council",
+        "name": "Consejo Privado"
+    },
+    {
+        "code": "House Manwoody",
+        "name": "Casa Manwoody"
+    },
+    {
+        "code": "City",
+        "name": "Ciudad"
+    },
+    {
+        "code": "House Mormont",
+        "name": "Casa Mormont"
+    },
+    {
+        "code": "Winterfell",
+        "name": "Invernalia"
+    },
+    {
+        "code": "Spy",
+        "name": "Espía"
+    },
+    {
+        "code": "Fortification",
+        "name": "Fortificación"
+    },
+    {
+        "code": "House Florent",
+        "name": "Casa Florent"
+    },
+    {
+        "code": "Companion",
+        "name": "Acompañante"
+    },
+    {
+        "code": "Bastard",
+        "name": "Bastardo"
+    },
+    {
+        "code": "Citadel",
+        "name": "Ciudadela"
+    },
+    {
+        "code": "House Bolton",
+        "name": "Casa Bolton"
+    },
+    {
+        "code": "R'hllor",
+        "name": "R'hllor"
+    },
+    {
+        "code": "The Westerlands",
+        "name": "Tierras de Occidente"
+    },
+    {
+        "code": "Mercenary",
+        "name": "Mercenario"
+    },
+    {
+        "code": "Sand Snake",
+        "name": "Serpiente de arena"
+    },
+    {
+        "code": "Giant",
+        "name": "Gigante"
+    },
+    {
+        "code": "Braavos",
+        "name": "Braavos"
+    },
+    {
+        "code": "Omen",
+        "name": "Augurio"
+    },
+    {
+        "code": "King",
+        "name": "Rey"
+    },
+    {
+        "code": "Recruit",
+        "name": "Recluta"
+    },
+    {
+        "code": "Raven",
+        "name": "Cuervo"
+    },
+    {
+        "code": "House Uller",
+        "name": "Casa Uller"
+    },
+    {
+        "code": "Riddle",
+        "name": "Acertijo"
+    },
+    {
+        "code": "Army",
+        "name": "Ejército"
+    },
+    {
+        "code": "Commander",
+        "name": "Comandante"
+    },
+    {
+        "code": "Highgarden",
+        "name": "Altojardín"
+    },
+    {
+        "code": "King's Landing",
+        "name": "Desembarco del Rey"
+    },
+    {
+        "code": "Noble",
+        "name": "Nobleza"
+    },
+    {
+        "code": "Minstrel",
+        "name": "Juglar"
+    },
+    {
+        "code": "House Botley",
+        "name": "Casa Botley"
+    },
+    {
+        "code": "Brotherhood",
+        "name": "Hermandad"
+    },
+    {
+        "code": "Guard",
+        "name": "Guardia"
+    },
+    {
+        "code": "House Umber",
+        "name": "Casa Umber"
+    },
+    {
+        "code": "House Hightower",
+        "name": "Casa Hightower"
+    },
+    {
+        "code": "Dragon",
+        "name": "Dragón"
+    },
+    {
+        "code": "Riverlands",
+        "name": "Tierras de los Ríos"
+    },
+    {
+        "code": "House Manderly",
+        "name": "Casa Manderly"
+    },
+    {
+        "code": "Meereen",
+        "name": "Meereen"
+    },
+    {
+        "code": "Banner",
+        "name": "Estandarte"
+    },
+    {
+        "code": "Merchant",
+        "name": "Mercader"
+    },
+    {
+        "code": "Siege",
+        "name": "Asedio"
+    },
+    {
+        "code": "House Goodbrother",
+        "name": "Casa Goodbrother"
+    },
+    {
+        "code": "Direwolf",
+        "name": "Lobo huargo"
+    },
+    {
+        "code": "Barge",
+        "name": "Barcaza"
+    },
+    {
+        "code": "Vehicle",
+        "name": "Vehículo"
+    },
+    {
+        "code": "Rainbow Guard",
+        "name": "Guardia Arcoiris"
+    },
+    {
+        "code": "House Tarly",
+        "name": "Casa Tarly"
+    },
+    {
+        "code": "Skill",
+        "name": " Habilidad"
+    },
+    {
+        "code": "House Connington",
+        "name": "Casa Connington"
+    },
+    {
+        "code": "The Citadel",
+        "name": "La Ciudadela"
+    },
+    {
+        "code": "Legacy",
+        "name": "Legado"
+    },
+    {
+        "code": "Old Gods",
+        "name": "Antiguos dioses"
+    },
+    {
+        "code": "Blessing",
+        "name": "Bendición"
+    },
+    {
+        "code": "Poison",
+        "name": "Veneno"
+    },
+    {
+        "code": "Dragonstone",
+        "name": "Rocadragón"
+    },
+    {
+        "code": "Stormborn",
+        "name": "De la Tormenta"
+    },
+    {
+        "code": "Hatchling",
+        "name": "Cría"
+    },
+    {
+        "code": "Astapor",
+        "name": "Astapor"
+    },
+    {
+        "code": "Pentos",
+        "name": "Pentos"
+    },
+    {
+        "code": "Lhazareen",
+        "name": "Lhazareeno"
+    },
+    {
+        "code": "Maegi",
+        "name": "Maegi"
+    },
+    {
+        "code": "House Reed",
+        "name": "Casa Reed"
+    },
+    {
+        "code": "Crown",
+        "name": "Corona"
+    },
+    {
+        "code": "Qarth",
+        "name": "Qarth"
+    },
+    {
+        "code": "Grace",
+        "name": "Gracia"
+    },
+    {
+        "code": "Pit Fighter",
+        "name": "Luchador de reñidero"
+    },
+    {
+        "code": "Free Cities",
+        "name": "Ciudades libres"
+    },
+    {
+        "code": "House Santagar",
+        "name": "House Santagar"
+    },
+    {
+        "code": "Storyteller",
+        "name": "Cuentacuentos"
+    },
+    {
+        "code": "Warlock",
+        "name": "Brujo"
+    },
+    {
+        "code": "House Qorgyle",
+        "name": "Casa Qorgyle"
+    },
+    {
+        "code": "Cat",
+        "name": "Gato"
+    },
+    {
+        "code": "House Karstark",
+        "name": "Casa Karstark"
+    },
+    {
+        "code": "House Hornwood",
+        "name": "Casa Hornwood"
+    }
+]
